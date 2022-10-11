@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_69.5.1  12  2565   . .   .      1  2564  1  2564</name>
+   <tag></tag>
+   <elementGuidId>2f50a9c4-77ab-499c-bade-992d6aa3c0c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='tinymce']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    ตามหนังสือที่ อว.69.5.1 ลงวันที่ 12 ธันวาคม 2565 กบ กำหนดจัดโครงการ ............................................................................. โดยมีวัตถุประสงค์เพื่อ...................................................................................................................................... และได้เชิญข้าพเจ้า ผู้ช่วยศาสตราจารย์ ดร. สายัณห์ อุ่นนันกาศ เป็นวิทยากรเพื่อถ่ายทอดความรู้ เรื่อง ในระหว่างวันที่ 1 กุมภาพันธ์ 2564 ถึง 1 กุมภาพันธ์ 2564 ณ กบ นั้น</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tinymce&quot;)/p[1]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/test/Page_/iframe_Paragraph_mce_0_ifr</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='tinymce']/p</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '    ตามหนังสือที่ อว.69.5.1 ลงวันที่ 12 ธันวาคม 2565 กบ กำหนดจัดโครงการ ............................................................................. โดยมีวัตถุประสงค์เพื่อ...................................................................................................................................... และได้เชิญข้าพเจ้า ผู้ช่วยศาสตราจารย์ ดร. สายัณห์ อุ่นนันกาศ เป็นวิทยากรเพื่อถ่ายทอดความรู้ เรื่อง ในระหว่างวันที่ 1 กุมภาพันธ์ 2564 ถึง 1 กุมภาพันธ์ 2564 ณ กบ นั้น' or . = '    ตามหนังสือที่ อว.69.5.1 ลงวันที่ 12 ธันวาคม 2565 กบ กำหนดจัดโครงการ ............................................................................. โดยมีวัตถุประสงค์เพื่อ...................................................................................................................................... และได้เชิญข้าพเจ้า ผู้ช่วยศาสตราจารย์ ดร. สายัณห์ อุ่นนันกาศ เป็นวิทยากรเพื่อถ่ายทอดความรู้ เรื่อง ในระหว่างวันที่ 1 กุมภาพันธ์ 2564 ถึง 1 กุมภาพันธ์ 2564 ณ กบ นั้น')]</value>
+   </webElementXpaths>
+</WebElementEntity>

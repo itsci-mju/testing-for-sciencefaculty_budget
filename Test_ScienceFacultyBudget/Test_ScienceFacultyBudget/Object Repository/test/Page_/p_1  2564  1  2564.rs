@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_1  2564  1  2564</name>
+   <tag></tag>
+   <elementGuidId>bc3b054f-c9a6-49a8-8aaa-113a3df09020</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='tinymce']/p[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    ในการนี้  ข้าพเจ้าจึงขออนุญาตเข้าร่วมเป็นวิทยากรเพื่อถ่ายทอดความรู้ แก่ ...................................................... ในระหว่างวันที่ 1 กุมภาพันธ์ 2564 ถึง 1 กุมภาพันธ์ 2564 ณ กบ ทั้งนี้    เดินทางโดยรถยนต์ส่วนตัวและขอเบิกค่าชดเชยน้ำมันเชื้อเพลิง </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tinymce&quot;)/p[3]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/test/Page_/iframe_Paragraph_mce_0_ifr</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='tinymce']/p[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '    ในการนี้  ข้าพเจ้าจึงขออนุญาตเข้าร่วมเป็นวิทยากรเพื่อถ่ายทอดความรู้ แก่ ...................................................... ในระหว่างวันที่ 1 กุมภาพันธ์ 2564 ถึง 1 กุมภาพันธ์ 2564 ณ กบ ทั้งนี้    เดินทางโดยรถยนต์ส่วนตัวและขอเบิกค่าชดเชยน้ำมันเชื้อเพลิง ' or . = '    ในการนี้  ข้าพเจ้าจึงขออนุญาตเข้าร่วมเป็นวิทยากรเพื่อถ่ายทอดความรู้ แก่ ...................................................... ในระหว่างวันที่ 1 กุมภาพันธ์ 2564 ถึง 1 กุมภาพันธ์ 2564 ณ กบ ทั้งนี้    เดินทางโดยรถยนต์ส่วนตัวและขอเบิกค่าชดเชยน้ำมันเชื้อเพลิง ')]</value>
+   </webElementXpaths>
+</WebElementEntity>
